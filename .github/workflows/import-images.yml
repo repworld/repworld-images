@@ -16,6 +16,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Download images from Google Drive
         shell: bash
         run: |
@@ -101,5 +103,7 @@ jobs:
             echo "No image changes"
           else
             git commit -m "Import images from Google Drive"
-            git push
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
           fi
