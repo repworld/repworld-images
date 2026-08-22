@@ -1,9 +1,9 @@
 name: Sync Google Drive images
 
-# manual trigger 2026-08-23 00:34 CEST
+# Automatic sync: every 5 minutes, staggered away from common :00/:15/:30/:45 load peaks.
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '3-58/5 * * * *'
   workflow_dispatch:
   push:
     branches: [main]
