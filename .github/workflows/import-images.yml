@@ -1,5 +1,6 @@
 name: Sync Google Drive images
 
+# manual trigger 2026-08-23 00:34 CEST
 on:
   schedule:
     - cron: '*/15 * * * *'
