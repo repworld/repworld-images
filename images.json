@@ -473,5 +473,20 @@
     "index": 95,
     "alias": "img-095.png",
     "path": "images/img-095.png"
+  },
+  {
+    "index": 96,
+    "alias": "img-096.png",
+    "path": "images/img-096.png"
+  },
+  {
+    "index": 97,
+    "alias": "img-097.png",
+    "path": "images/img-097.png"
+  },
+  {
+    "index": 98,
+    "alias": "img-098.png",
+    "path": "images/img-098.png"
   }
 ]
