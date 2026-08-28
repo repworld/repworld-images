@@ -503,5 +503,20 @@
     "index": 101,
     "alias": "img-101.png",
     "path": "images/img-101.png"
+  },
+  {
+    "index": 102,
+    "alias": "img-102.png",
+    "path": "images/img-102.png"
+  },
+  {
+    "index": 103,
+    "alias": "img-103.png",
+    "path": "images/img-103.png"
+  },
+  {
+    "index": 104,
+    "alias": "img-104.png",
+    "path": "images/img-104.png"
   }
 ]
