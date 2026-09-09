@@ -613,5 +613,10 @@
     "index": 123,
     "alias": "img-123.png",
     "path": "images/img-123.png"
+  },
+  {
+    "index": 124,
+    "alias": "img-124.png",
+    "path": "images/img-124.png"
   }
 ]
