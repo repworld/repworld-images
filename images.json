@@ -973,5 +973,10 @@
     "index": 195,
     "alias": "img-195.jpg",
     "path": "images/img-195.jpg"
+  },
+  {
+    "index": 196,
+    "alias": "img-196.png",
+    "path": "images/img-196.png"
   }
 ]
